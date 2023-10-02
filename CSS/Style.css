@@ -33,6 +33,7 @@ h1 {
 }
 .Left {
     width: 50%;
+    font-size: large;
 }
 .Right {
     width: 48%;
