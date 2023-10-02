@@ -1,0 +1,60 @@
+body {
+    font-family: 'Urbanist', sans-serif;
+    
+}
+
+header {
+    background-color: #4A4A4A;
+}
+.container {
+    padding: 25px;
+}
+header li {
+    display: inline-block;
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Poly', serif;
+}
+.menuRight {
+    float: right;
+    padding: 10px;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+h1 {
+    font-weight: 600;
+    text-align: center;
+}
+.containerBlock {
+    display: inline-block;
+}
+.Left {
+    width: 50%;
+}
+.Right {
+    width: 48%;
+    float: right;
+    padding-left: 2%;
+}
+footer {
+    background-color: #4A4A4A;
+    padding: 1%;
+    font-family: 'Poly', serif;
+}
+.footerElements {
+    vertical-align: top;
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+} 
+footer li {
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
